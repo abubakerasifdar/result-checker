@@ -1,12 +1,11 @@
 
-        
         body {
             display: flex;
             justify-content: center;
             align-items: center;
             text-align: center;
-            height: 80vh;
-            width: 50%;
+            height: 60vh;
+            width: 80%;
             margin: 0 auto;
         }
         #root{
@@ -16,7 +15,7 @@
 
         input {
             height: 40px;
-            width: 75%;
+            width: 70%;
 
         }
 
@@ -35,7 +34,7 @@
             background-color: red;
             color: white;
             display: none;
-            width: 98%;
+            width: 96%;
             justify-items: center;
             justify-content: center;
             align-items: center;
@@ -44,5 +43,4 @@
             font-size: large;
             font-weight: bold;
         }
-   
   
