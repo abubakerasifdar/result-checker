@@ -24,32 +24,3 @@
         document.getElementById("output").style.display = "flex"
         document.getElementById("output").innerHTML = result;
        }
-//1 
-    //1 
-     //1 
-     //1 
-   //1 
-   //1 
-//1 
-           //1 
-//1 
-              //1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-         //1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
